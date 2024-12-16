@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'UTM Alba Matter';
+    src: url('UTMAlbaMatter.woff2') format('woff2'),
+        url('UTMAlbaMatter.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UTM Alter Gothic';
+    src: url('UTMAlterGothic.woff2') format('woff2'),
+        url('UTMAlterGothic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UTM Aurora';
+    src: url('UTMAurora.woff2') format('woff2'),
+        url('UTMAurora.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'UTM Flamenco';
+    src: url('UTMFlamenco.woff2') format('woff2'),
+        url('UTMFlamenco.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
